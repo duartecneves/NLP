@@ -26,6 +26,3 @@ Classifies financial tweets as **Bearish, Bullish or Neutral**. The task is hard
 
 Findings: end-to-end fine-tuning beat every classical approach, and the general-domain RoBERTa-base
 outperformed the Twitter- and finance-specific models.
-
-## Tech
-Python, PyTorch, Hugging Face Transformers, scikit-learn, XGBoost, NLTK, Gensim, pandas
